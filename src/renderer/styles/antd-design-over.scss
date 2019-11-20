@@ -1,0 +1,15 @@
+// antd 样式全局覆盖
+.ant-layout-header {
+  position: relative;
+  //margin: 0;
+  padding: 0;
+}
+.ant-layout-content {
+  position: relative;
+}
+.ant-layout-sider {
+  position: relative;
+}
+.ant-layout {
+  background: transparent;
+}
